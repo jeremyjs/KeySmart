@@ -1,0 +1,19 @@
+
+.untyped {
+	font-weight: bold;
+	background-color: #E6E6E6;
+}
+
+.typed {
+	font-weight: normal;
+	background-color: #9999FF;
+}
+
+.wrong {
+	font-weight: bold;
+	background-color: #D63333;
+}
+
+#wordview {
+	outline: 1px black solid;
+}
